@@ -25,6 +25,14 @@ const products = [{
   },
   priceCents: 6999
 
+} , {
+  image: `images/products/cannabis.jpg`,
+  name: `fresh Cannabis MINT CONDITION RARE `,
+  rating: {
+    stars: 5.0,
+    count: 10000
+  },
+  priceCents: 1000
 }]
 
 let productsHTML = '';
